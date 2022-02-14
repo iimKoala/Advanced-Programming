@@ -1,0 +1,5 @@
+﻿  Skeleton.cpp
+  Source.cpp
+C:\Users\Owner\source\repos\Lab2Advanced\Troll.h(7,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Lab2Advanced.vcxproj -> C:\Users\Owner\source\repos\Lab2Advanced\x64\Debug\Lab2Advanced.exe
