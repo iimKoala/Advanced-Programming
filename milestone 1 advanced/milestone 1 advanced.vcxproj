@@ -142,15 +142,17 @@
     <ClCompile Include="Dog.cpp" />
     <ClCompile Include="cat.cpp" />
     <ClCompile Include="Frog.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Shark.cpp" />
     <ClCompile Include="Monkey.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Engine.cpp" />
     <ClCompile Include="Spider.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dog.h" />
     <ClInclude Include="cat.h" />
     <ClInclude Include="Frog.h" />
+    <ClInclude Include="Engine.h" />
     <ClInclude Include="Shark.h" />
     <ClInclude Include="Monkey.h" />
     <ClInclude Include="Spider.h" />
