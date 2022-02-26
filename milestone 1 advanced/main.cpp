@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Engine.h"
+#include "AnimationFrames.h"
 
 int main()
 {
-	Engine  e;
-	return e.engine();
+	AnimationFrames a;
+	return a.animation();
 }

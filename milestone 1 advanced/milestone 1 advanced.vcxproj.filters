@@ -30,7 +30,7 @@
     <ClCompile Include="Monkey.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Engine.cpp">
+    <ClCompile Include="AnimationFrames.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Spider.cpp">
@@ -59,7 +59,7 @@
     <ClInclude Include="Spider.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Engine.h">
+    <ClInclude Include="AnimationFrames.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

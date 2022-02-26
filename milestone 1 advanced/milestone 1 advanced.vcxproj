@@ -145,14 +145,14 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Shark.cpp" />
     <ClCompile Include="Monkey.cpp" />
-    <ClCompile Include="Engine.cpp" />
+    <ClCompile Include="AnimationFrames.cpp" />
     <ClCompile Include="Spider.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dog.h" />
     <ClInclude Include="cat.h" />
     <ClInclude Include="Frog.h" />
-    <ClInclude Include="Engine.h" />
+    <ClInclude Include="AnimationFrames.h" />
     <ClInclude Include="Shark.h" />
     <ClInclude Include="Monkey.h" />
     <ClInclude Include="Spider.h" />

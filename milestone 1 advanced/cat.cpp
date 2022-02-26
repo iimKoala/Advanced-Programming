@@ -1,4 +1,5 @@
 #include <iostream>
+#include <fstream>
 #include <chrono>
 #include <thread>
 #include <stdlib.h>
@@ -7,13 +8,15 @@
 
 void cat::Cat() {
     using namespace std::chrono_literals;
-
-
-    //CAT
-
-    std::cout << "  |\\__/| (`\  \\\n";
-    std::cout << "  | o o |__) )  \n";
-    std::cout << "  (((--(((      \n";
+      ifstream myFile ("cat.txt");
+      string line;
+      if (myFile.is_open())
+      {
+          while (getline(myFile, line))
+          {
+              cout << line << '\n';
+          }
+          
     auto start = std::chrono::high_resolution_clock::now();
     std::this_thread::sleep_for(1000ms);
     system("CLS");
@@ -57,4 +60,6 @@ void cat::Cat() {
     auto end = std::chrono::high_resolution_clock::now();
     system("CLS");
     
+  
+}
 }
