@@ -23,7 +23,7 @@ public:
 	string name = "Glob";
 	int damage = 15;
 	int health = 110;
-	string ability = " Shot Guuu";
+	string ability = " Shot Guuu \n";
 	int gold = 50;
 	int experience = 45;
 	int Attack() const;

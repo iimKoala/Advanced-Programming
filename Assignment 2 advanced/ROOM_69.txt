@@ -1,0 +1,6 @@
+1
+Lab room #69 
+2 0 0 0 0
+this room contains 2 drawers and a door facing north, You see purple goo on the floor.
+
+

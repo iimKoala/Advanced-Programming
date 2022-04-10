@@ -20,11 +20,20 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="Fight.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Rooms.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Colour.h" />
     <ClInclude Include="Enemy.h" />
+    <ClInclude Include="Fight.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Rooms.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ROOM_69.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

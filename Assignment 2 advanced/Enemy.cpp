@@ -23,6 +23,6 @@ int Enemy::Defeat()
 	{
 		
 	}
-	return gold, experience;
+	return gold , experience;
 }
 
