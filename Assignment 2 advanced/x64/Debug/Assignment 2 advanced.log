@@ -1,5 +1,2 @@
-﻿  Fight.cpp
-C:\Users\Haye's PC\Desktop\GBC\Advanced-Programming\Assignment 2 advanced\Fight.h(4,37): warning C4584: 'Fight': base-class 'Enemy' is already a base-class of 'Glob'
-C:\Users\Haye's PC\Desktop\GBC\Advanced-Programming\Assignment 2 advanced\Enemy.h(4): message : see declaration of 'Enemy'
-C:\Users\Haye's PC\Desktop\GBC\Advanced-Programming\Assignment 2 advanced\Enemy.h(20): message : see declaration of 'Glob'
+﻿  Player.cpp
   Assignment 2 advanced.vcxproj -> C:\Users\Haye's PC\Desktop\GBC\Advanced-Programming\Assignment 2 advanced\x64\Debug\Assignment 2 advanced.exe

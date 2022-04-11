@@ -12,7 +12,7 @@ Glob en;
 int Fight::fight()
 {
 
-	cout << pl.name << " has run into " << en.name << endl;
+	cout << Color(13) << pl.name << Color(7) << " has run into " << en.name << endl;
 
 	do {
 			if (pl.Damage > en.damage) {

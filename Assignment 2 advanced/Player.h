@@ -9,7 +9,7 @@ class Player
 {
 public:
 	string name;
-
+	string possesion;
 	string getName();
 
 	int health = 100;
